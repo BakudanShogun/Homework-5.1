@@ -253,6 +253,7 @@ button {
   padding-top: 5px;
   padding-bottom: 5px;
   margin-left: 12px;
+  margin-right: 12px;
 }
 .our-project-picture-list {
   display: grid;
