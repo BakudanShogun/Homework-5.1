@@ -247,10 +247,14 @@ button {
   color: #000;
   background-color: rgba(245, 244, 250, 1);
   border: none;
+<<<<<<< Updated upstream
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 5px;
   padding-bottom: 5px;
+=======
+
+>>>>>>> Stashed changes
   margin-left: 12px;
 }
 .our-project-picture-list {
